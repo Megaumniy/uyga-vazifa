@@ -1,0 +1,267 @@
+* {
+    list-style:none;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.ukacha {
+    display: flex;
+    justify-content: space-evenly;
+   
+}
+.yunit1 {
+    width: 300px;
+    height: 1300px;
+    padding: 20px 50px;
+}
+.ukacha-2 {
+    text-align: right;
+}
+.ukacha-1>h2 {
+    color: #FFB400;
+
+}
+.a {
+    color: #6b4e0c;
+    width: 280px;
+    height: 4px;
+    border:2px inset #eba607 ;
+}
+.b {
+    background: gold;
+    padding: 0 10px 0 0;
+    width: 280px;
+    height: 4px;
+    border:2px inset #FFB400
+}
+.c {
+    width: 280px;
+    height: 4px;
+    border:2px inset #FFB400
+}
+.yunit-1-btn {
+    width: 220px;
+    height: 40px;
+    background: #FFB400;
+    border-radius: 10px;
+
+}
+.sentr {
+    display: flex   ;
+}
+.yunit2-lict {
+    width: 360px;
+    height: 112px;
+}
+.yunit2-btn {
+    height: 51px;
+    width: 154px;
+    background: #FFB400;
+
+}
+.yunit2-tetli {
+    border: 1px inset black;
+    display: flex;
+    width: 900px;
+    height: 350px;
+    margin: 0 auto;
+    background: rgb(219, 219, 219);
+    padding: 20px 40px ;
+    justify-content: center;
+    justify-content: space-around;
+}
+.yunit2-lict {
+    margin-top: 60px;
+}
+.yunit2-cart {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+.d {
+    width: 250px;
+    height: 180px;
+    padding: 10px 30px;
+    border: 2px black inset;
+    margin-top: 30px;
+    margin-left: 20px;
+    border-radius: 20px;
+    background: rgb(233, 233, 233);
+}
+.yunit2-title2 {
+    width: 400px;
+    height: 100px;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+span {
+    display: flex;
+}
+.yunit2-cart-shop {
+    display: flex;
+}
+.yunit2-cart-title {
+    width: 300px;
+    height: 600px;
+    margin: 20px 40px;
+    text-align:center;
+    margin-top: 50px;
+    background: rgb(246, 246, 246);
+    padding: 0 30px;
+    border-radius: 20px;
+    padding-top: 30px;
+    
+}
+.yunit2-cart-title-ul>li {
+    margin-top: 20px;
+    font:10px;
+}
+.yunit2-cart-title-ul {
+    text-align: left;
+}
+
+.yunit2-cart-title-btn1{
+    width: 150px;
+    height: 35px;
+    border-radius: 20px;
+    margin-top: 30px;
+    background: #FFB400;
+    border: none;
+    box-shadow: 0px 1px 10px 0px #00000026;
+
+}
+.yunit2-yulduzlar-cart {
+    display: flex;
+    width: 1300px;
+    height: 400px;
+}
+.yunit2-yulduzlar-title {
+    width:400px;
+    height: 100px;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+.yunit2-yulduzlar-img {
+    display: flex;
+    justify-content: space-around;
+    width: 300px;
+    height: 90px;
+    margin-top: 30px;
+
+}
+.cart {
+    margin: 20px 30px;
+    background:  rgb(246, 246, 246);
+    padding: 40px 30px;
+    border-radius: 10px;
+}
+.nuqta {
+    text-align: center;
+    color:#eba607;
+    margin-top: 40px;
+    gap: 5;
+}
+.yunit2-kattatext-text {
+    display: flex;
+    width: 1200px;
+    gap: 300px;
+    margin-top: 40px;
+}
+.yunit2-kattatext {
+    padding: 20px 60px ;
+}
+.hop {
+    display: flex;
+    justify-content: space-between;
+    font-size: 20px
+}
+.imglar {
+    width: 1000px;
+   margin: 0 auto;                                                                  
+}
+.blog {
+    display: flex;
+    gap: 20px;
+}
+.yunit2-blog {
+    width: 970px;
+    height: 665px;
+    margin: 0 auto;
+}
+.blog1 {
+    width: 310px;
+    height: 474px;
+}
+.yunit2-input {
+    display: flex;
+    margin: 0 auto;
+    width: 970px;
+    height: 755px;
+    margin-top: 70px;
+    gap: 30px;
+}
+.yunit2-input1 {
+    width: 570px;
+    height: 735px;
+    background: #F0F0F6;
+    padding: 25px;
+}
+.yunit2-content{
+    width: 370px;
+    height: 777px;
+    background: #F0F0F6;
+}
+.informeyshin {
+    display: flex;
+    justify-content: space-between;
+    padding: 25px;
+}
+input {
+    width: 521px;
+    height: 50px;
+    background: #ffffff;
+    border: none;
+    border-radius: 5px;
+}
+.yunit2-informeyshin {
+    width: 370px;
+    height: 210px;
+    margin-top: 18px;
+}
+.ilar{
+    text-align: center;
+    color: #FFB400;
+    margin-bottom: 30px;
+}
+.yunit2-input-btn {
+    width: 159px;
+    height: 35px;
+    background: #FFB400;
+    font-size: 18px;
+    margin-top: 25px;
+}
+.yunit2-map {
+    width: 970px;
+    height: 300px;
+    margin: 70px auto;
+}
+.yunit2-ded {
+    display: flex;
+    width: 970px;
+    height: 140px;
+    margin: 0 auto;
+    gap: 140px;
+}
+.tugashi {
+    width: 940px;
+    height: 60px;
+    margin: 70px auto;
+    text-align: center;
+    background:#F0F0F6 ;
+    padding: 5px;
+}
